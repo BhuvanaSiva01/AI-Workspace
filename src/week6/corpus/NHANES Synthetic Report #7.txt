@@ -1,0 +1,245 @@
+NHANES Synthetic Report #7 (TXT Format)
+Oral Health Examination Summary (2–3 pages)
+NHANES Synthetic Report #7  
+Oral Health Examination Summary  
+Plain Text Document — 2–3 Pages
+
+Executive Summary
+
+This synthetic NHANES oral health report summarizes dental examination findings collected from 10,000 respondents during mobile examination center (MEC) visits. The dataset reflects realistic U.S. patterns in dental caries, periodontal disease, tooth retention, oral hygiene behaviors, and age‑related oral health decline.
+
+Key findings include high prevalence of untreated dental caries among children, increasing periodontal disease among adults aged 40+, and significant disparities in oral health outcomes across socioeconomic groups.
+
+1. Survey Description
+
+NHANES oral health examinations are conducted by trained dental professionals using standardized protocols. This synthetic dataset mirrors NHANES methodology.
+
+Oral health domains included:
+
+Dental caries assessment
+
+Periodontal pocket depth
+
+Attachment loss
+
+Tooth retention and edentulism
+
+Gingival inflammation
+
+Oral hygiene behaviors (self‑reported)
+
+These objective measures complement interview data on dental visits and oral hygiene practices.
+
+2. Dental Caries (Tooth Decay)
+
+Children (2–19 years):
+
+Caries prevalence: 42%
+
+Untreated caries: 18%
+
+Adults (20+ years):
+
+Caries prevalence: 89%
+
+Untreated caries: 24%
+
+Interpretation:  
+Dental caries remain one of the most common chronic conditions across all age groups. Untreated caries are more prevalent among low‑income respondents and those without dental insurance.
+
+3. Periodontal Disease
+
+Periodontal disease increases sharply with age.
+
+Adults (30+ years):
+
+Mild periodontitis: 28%
+
+Moderate periodontitis: 22%
+
+Severe periodontitis: 9%
+
+Key Indicators:
+
+Pocket depth ≥4 mm: 31%
+
+Attachment loss ≥3 mm: 27%
+
+Narrative Analysis:  
+Periodontal disease is strongly associated with smoking, diabetes, and low socioeconomic status. Men show higher prevalence than women.
+
+4. Tooth Retention and Edentulism
+
+Mean Number of Natural Teeth (Adults 20+ years):
+
+Ages 20–39: 27 teeth
+
+Ages 40–59: 25 teeth
+
+Ages 60+: 20 teeth
+
+Edentulism (No Natural Teeth):
+
+Adults 40–59: 3%
+
+Adults 60+: 14%
+
+Interpretation:  
+Tooth loss increases with age and is strongly associated with chronic disease, smoking, and limited access to dental care.
+
+5. Gingival Health
+
+Gingival Inflammation:
+
+Mild: 34%
+
+Moderate: 21%
+
+Severe: 7%
+
+Bleeding on Probing:
+
+Present in 38% of adults
+
+Narrative Analysis:  
+Gingival inflammation is widespread and often linked to poor oral hygiene, smoking, and lack of routine dental visits.
+
+6. Oral Hygiene Behaviors (Self‑Reported)
+
+Toothbrushing Frequency:
+
+Twice daily: 62%
+
+Once daily: 28%
+
+Less than once daily: 10%
+
+Flossing Frequency:
+
+Daily: 22%
+
+Weekly: 31%
+
+Rarely/Never: 47%
+
+Dental Visit in Past Year:
+
+Yes: 58%
+
+No: 42%
+
+Interpretation:  
+Oral hygiene behaviors vary significantly by income, education, and insurance status. Low‑income respondents report fewer dental visits and lower flossing frequency.
+
+7. Age‑Related Oral Health Patterns
+
+Children (2–19 years):
+
+High caries prevalence
+
+Lower periodontal disease
+
+Higher untreated decay among low‑income groups
+
+Adults (20–39 years):
+
+Increasing caries experience
+
+Early signs of periodontal disease
+
+Adults (40–59 years):
+
+Highest periodontal disease prevalence
+
+Increasing tooth loss
+
+Adults (60+ years):
+
+Highest edentulism
+
+Highest attachment loss
+
+Lower dental visit frequency
+
+8. Sex Differences
+
+Men:
+
+Higher periodontal disease
+
+Higher gingival inflammation
+
+Lower flossing frequency
+
+Women:
+
+Higher dental visit frequency
+
+Lower untreated caries prevalence
+
+Better oral hygiene behaviors
+
+9. Race & Ethnicity Differences
+
+Non‑Hispanic Black:
+
+Higher untreated caries
+
+Higher periodontal disease
+
+Hispanic:
+
+Higher caries prevalence
+
+Moderate periodontal disease
+
+Non‑Hispanic White:
+
+Higher tooth retention
+
+Higher dental visit frequency
+
+Asian:
+
+Lower caries prevalence
+
+Lower periodontal disease
+
+Interpretation:  
+Oral health disparities mirror socioeconomic patterns and access to dental care.
+
+10. Socioeconomic Status & Oral Health
+
+Low‑income respondents (IPR < 2.0):
+
+Higher untreated caries
+
+Higher periodontal disease
+
+Lower dental visit frequency
+
+Higher edentulism
+
+Higher‑income respondents (IPR ≥ 2.0):
+
+Better oral hygiene behaviors
+
+Higher tooth retention
+
+Lower untreated decay
+
+11. Key Findings
+
+Dental caries are widespread across all age groups.
+
+Periodontal disease increases sharply after age 40.
+
+Tooth loss is strongly associated with age and socioeconomic status.
+
+Oral hygiene behaviors vary significantly across demographic groups.
+
+Access to dental care remains a major determinant of oral health outcomes.
+
+12. Conclusion
+
+This synthetic NHANES oral health report provides a realistic representation of U.S. dental health patterns. The findings highlight caries prevalence, periodontal disease trends, and disparities in oral hygiene behaviors. These patterns support downstream modeling, risk assessment, and NLP corpus development.

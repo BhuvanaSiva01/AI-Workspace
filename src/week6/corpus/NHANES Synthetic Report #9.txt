@@ -1,0 +1,264 @@
+NHANES Synthetic Report #9 (TXT Format)
+Mental Health & Depression Screening Summary (2–3 pages)
+NHANES Synthetic Report #9  
+Mental Health & Depression Screening Summary  
+Plain Text Document — 2–3 Pages
+
+Executive Summary
+
+This synthetic NHANES mental health report summarizes depression screening results, psychological distress indicators, and mental health service utilization among 10,000 respondents. The dataset reflects realistic U.S. patterns in depressive symptoms, anxiety indicators, stress levels, and demographic disparities in mental health outcomes.
+
+Key findings include elevated depressive symptoms among adolescents and adults aged 20–39, higher psychological distress among low‑income respondents, and significant gaps in access to mental health services.
+
+1. Survey Description
+
+NHANES collects mental health data through standardized questionnaires. This synthetic dataset mirrors NHANES methodology.
+
+Domains included:
+
+Depression screening (PHQ‑9 synthetic values)
+
+Anxiety indicators
+
+Psychological distress (K6 synthetic values)
+
+Sleep quality
+
+Stress levels
+
+Mental health service utilization
+
+Prescription antidepressant use (linked to Report #4)
+
+These measures provide insight into emotional wellbeing and mental health burden across demographic groups.
+
+2. Depression Screening (PHQ‑9 Synthetic Scores)
+
+Adults (20+ years):
+
+Mean PHQ‑9 score: 6.1
+
+Minimal symptoms (0–4): 42%
+
+Mild depression (5–9): 32%
+
+Moderate depression (10–14): 17%
+
+Moderately severe/severe (15+): 9%
+
+Adolescents (12–19 years):
+
+Mean PHQ‑9 score: 7.4
+
+Moderate or higher symptoms: 22%
+
+Interpretation:  
+Depressive symptoms are most common among adolescents and adults aged 20–39. Severe symptoms are less common but present across all demographic groups.
+
+3. Anxiety Indicators
+
+Anxiety symptoms were assessed using synthetic GAD‑7‑style values.
+
+Adults (20+ years):
+
+Mild anxiety: 29%
+
+Moderate anxiety: 15%
+
+Severe anxiety: 6%
+
+Adolescents (12–19 years):
+
+Moderate/severe anxiety: 18%
+
+Narrative Analysis:  
+Anxiety symptoms often co‑occur with depressive symptoms and are more prevalent among women and younger adults.
+
+4. Psychological Distress (K6 Synthetic Scores)
+
+Adults (20+ years):
+
+Low distress (0–7): 63%
+
+Moderate distress (8–12): 24%
+
+Serious distress (13+): 13%
+
+Interpretation:  
+Serious psychological distress is strongly associated with low income, unemployment, and chronic disease burden.
+
+5. Sleep Quality
+
+Sleep quality is a major indicator of mental health.
+
+Adults (20+ years):
+
+Good sleep quality: 48%
+
+Fair sleep quality: 34%
+
+Poor sleep quality: 18%
+
+Average Sleep Duration:
+
+Adults: 6.7 hours/night
+
+Adolescents: 7.4 hours/night
+
+Narrative Analysis:  
+Poor sleep quality is strongly associated with depressive symptoms, anxiety, and high screen time.
+
+6. Stress Levels
+
+Stress was assessed using synthetic self‑reported indicators.
+
+Adults (20+ years):
+
+Low stress: 36%
+
+Moderate stress: 44%
+
+High stress: 20%
+
+Interpretation:  
+High stress is most common among adults aged 30–49, reflecting work and family pressures.
+
+7. Mental Health Service Utilization
+
+Adults (20+ years):
+
+Saw a mental health professional in past year: 22%
+
+Took prescription antidepressants: 14%
+
+Reported unmet mental health needs: 11%
+
+Adolescents (12–19 years):
+
+Received counseling: 18%
+
+Reported unmet needs: 15%
+
+Narrative Analysis:  
+Unmet mental health needs are highest among uninsured and low‑income respondents.
+
+8. Age‑Related Mental Health Patterns
+
+Children (6–11 years):
+
+Low depressive symptoms
+
+Moderate anxiety variability
+
+High emotional reactivity
+
+Adolescents (12–19 years):
+
+Highest depressive symptoms
+
+High anxiety
+
+High screen time and poor sleep
+
+Adults (20–39 years):
+
+High stress
+
+Moderate depression and anxiety
+
+Increasing antidepressant use
+
+Adults (40–59 years):
+
+Moderate depressive symptoms
+
+High stress related to work and caregiving
+
+Adults (60+ years):
+
+Lower depression
+
+Higher loneliness indicators
+
+Lower mental health service utilization
+
+9. Sex Differences
+
+Women:
+
+Higher depression and anxiety scores
+
+Higher mental health service utilization
+
+Higher antidepressant use
+
+Men:
+
+Higher serious psychological distress
+
+Lower service utilization
+
+Higher unmet mental health needs
+
+10. Race & Ethnicity Differences
+
+Non‑Hispanic Black:
+
+Higher serious psychological distress
+
+Lower mental health service utilization
+
+Hispanic:
+
+Higher unmet mental health needs
+
+Moderate depression prevalence
+
+Non‑Hispanic White:
+
+Higher antidepressant use
+
+Higher service utilization
+
+Asian:
+
+Lower reported symptoms
+
+Lower service utilization (likely underreporting)
+
+Interpretation:  
+Mental health disparities reflect cultural, socioeconomic, and access‑related factors.
+
+11. Socioeconomic Status & Mental Health
+
+Low‑income respondents (IPR < 2.0):
+
+Higher depression and anxiety
+
+Higher serious psychological distress
+
+Lower access to mental health services
+
+Higher‑income respondents (IPR ≥ 2.0):
+
+Higher service utilization
+
+Lower distress
+
+Higher antidepressant use
+
+12. Key Findings
+
+Depression and anxiety are most common among adolescents and younger adults.
+
+Serious psychological distress affects 13% of adults.
+
+Sleep quality is strongly linked to mental health symptoms.
+
+Unmet mental health needs remain high, especially among low‑income respondents.
+
+Sex and racial disparities persist across all mental health indicators.
+
+13. Conclusion
+
+This synthetic NHANES mental health report provides a realistic representation of U.S. emotional wellbeing patterns. The findings highlight depressive symptoms, anxiety trends, stress levels, and disparities in mental health service utilization. These patterns support downstream modeling, risk assessment, and NLP corpus development.

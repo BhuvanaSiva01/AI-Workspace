@@ -1,0 +1,159 @@
+📄 NHANES Synthetic Report #2 (TXT Format)
+Dietary Intake — 24‑Hour Recall Summary (2–3 pages)
+Below is the full plain‑text version.
+You can copy/paste directly into a .txt file.
+
+NHANES Synthetic Report #2  
+Dietary Intake (24‑Hour Recall)  
+Plain Text Document — 2–3 Pages
+
+Executive Summary
+
+This synthetic NHANES dietary intake report summarizes nutritional patterns collected through a 24‑hour dietary recall interview. The dataset includes 10,000 respondents and reflects realistic U.S. consumption trends. The report covers total caloric intake, macronutrient distribution, food group consumption, nutrient adequacy, and demographic differences.
+
+Key findings include high intake of added sugars, low fiber consumption, and persistent disparities in diet quality across socioeconomic groups.
+
+1. Survey Description
+
+The NHANES 24‑hour dietary recall uses the Automated Multiple‑Pass Method (AMPM), a structured interview designed to improve accuracy of self‑reported food intake. Respondents report all foods and beverages consumed from midnight to midnight the previous day.
+
+This synthetic dataset includes:
+
+10,000 respondents
+
+All ages
+
+Oversampling of minority groups
+
+English and Spanish interviews
+
+Detailed nutrient profiles generated using USDA food composition tables (synthetic values)
+
+2. Total Energy Intake
+
+Average daily caloric intake varies by age and sex.
+
+Adults (20+ years):
+
+Mean intake: 2,080 kcal
+
+Men: 2,350 kcal
+
+Women: 1,820 kcal
+
+Children (2–19 years):
+
+Mean intake: 1,650 kcal
+
+Interpretation:  
+Adults consume more calories than recommended for weight maintenance, especially men aged 20–39. Children’s caloric intake aligns with expected growth patterns.
+
+3. Macronutrient Distribution
+
+Percent of total energy intake:
+
+Carbohydrates: 49%
+
+Protein: 17%
+
+Total fat: 34%
+
+Saturated fat: 11%
+
+Narrative Analysis:  
+Carbohydrate intake is within recommended ranges, but saturated fat exceeds dietary guidelines. Protein intake is adequate across all demographic groups.
+
+4. Food Group Consumption
+
+Daily average intake:
+
+Fruits: 0.8 cups
+
+Vegetables: 1.3 cups
+
+Whole grains: 0.9 ounces
+
+Refined grains: 5.1 ounces
+
+Dairy: 1.4 cups
+
+Added sugars: 17 teaspoons
+
+Interpretation:  
+Fruit and vegetable intake remains below recommended levels. Added sugar consumption is significantly higher than dietary guidelines, especially among adolescents.
+
+5. Nutrient Adequacy Indicators
+
+Percent of respondents below recommended intake:
+
+Fiber: 72%
+
+Vitamin D: 64%
+
+Iron (women 20–49): 22%
+
+Calcium: 41%
+
+Potassium: 68%
+
+Narrative Analysis:  
+Fiber and potassium deficiencies are widespread. Vitamin D intake is low across all age groups, reflecting limited consumption of fortified foods and low sun exposure.
+
+6. Dietary Patterns by Income
+
+Income‑to‑poverty ratio (IPR) strongly influences diet quality.
+
+Low‑income respondents (IPR < 2.0):
+
+Higher consumption of refined grains
+
+Lower fruit and vegetable intake
+
+Higher added sugar intake
+
+Lower dairy consumption
+
+Higher‑income respondents (IPR ≥ 2.0):
+
+More whole grains
+
+Higher fruit and vegetable intake
+
+Lower sugar‑sweetened beverage consumption
+
+Interpretation:  
+Socioeconomic disparities in diet quality persist and mirror national trends.
+
+7. Age‑Related Dietary Differences
+
+Children and adolescents:
+
+Highest added sugar intake
+
+Lower vegetable consumption
+
+Higher snack food consumption
+
+Older adults (60+):
+
+Lower total caloric intake
+
+Higher fruit consumption
+
+Lower sodium intake
+
+8. Key Findings
+
+Added sugar intake exceeds recommendations for most respondents.
+
+Fiber intake is low across all demographic groups.
+
+Socioeconomic status strongly predicts diet quality.
+
+Adolescents show the poorest dietary patterns.
+
+Older adults have healthier macronutrient distribution but lower protein intake.
+
+9. Conclusion
+
+This synthetic NHANES dietary intake report provides a realistic representation of U.S. nutritional patterns. The findings highlight persistent dietary challenges, including low fruit and vegetable intake, high added sugar consumption, and widespread nutrient inadequacy. These patterns provide a strong foundation for downstream modeling, health risk assessment, and NLP corpus development.

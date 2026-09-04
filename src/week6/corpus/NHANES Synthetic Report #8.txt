@@ -1,0 +1,239 @@
+NHANES Synthetic Report #8 (TXT Format)
+Physical Activity & Sedentary Behavior Profile (2–3 pages)
+NHANES Synthetic Report #8  
+Physical Activity & Sedentary Behavior Profile  
+Plain Text Document — 2–3 Pages
+
+Executive Summary
+
+This synthetic NHANES physical activity report summarizes movement patterns, exercise habits, and sedentary behavior among 10,000 respondents. The dataset reflects realistic U.S. trends in moderate‑to‑vigorous physical activity (MVPA), walking frequency, occupational activity, screen time, and age‑related declines in activity levels.
+
+Key findings include low MVPA among adults aged 40+, high sedentary time among adolescents, and strong associations between physical activity and socioeconomic status.
+
+1. Survey Description
+
+NHANES collects physical activity data through structured questionnaires and accelerometer measurements (synthetic values in this dataset). Domains included:
+
+Moderate‑to‑vigorous physical activity (MVPA)
+
+Walking frequency
+
+Occupational activity
+
+Recreational activity
+
+Sedentary time
+
+Screen time
+
+Muscle‑strengthening activities
+
+These measures provide insight into lifestyle patterns that influence chronic disease risk.
+
+2. Moderate‑to‑Vigorous Physical Activity (MVPA)
+
+Adults (20+ years):
+
+Mean MVPA: 112 minutes/week
+
+Meeting guidelines (150+ min/week): 38%
+
+Below guidelines: 62%
+
+Children & Adolescents (6–19 years):
+
+Mean MVPA: 68 minutes/day
+
+Meeting guidelines (60+ min/day): 54%
+
+Interpretation:  
+Adults fall short of recommended activity levels, while children meet guidelines more frequently but show high variability.
+
+3. Walking Frequency
+
+Walking is the most common form of physical activity.
+
+Adults (20+ years):
+
+Walks ≥3 times/week: 46%
+
+Walks <1 time/week: 22%
+
+Narrative Analysis:  
+Walking frequency declines with age and is strongly associated with neighborhood walkability and income.
+
+4. Occupational Activity
+
+Occupational activity varies widely by job type.
+
+Sedentary occupations:
+
+41% of adults
+
+Mean sitting time: 7.4 hours/day
+
+Moderate‑activity occupations:
+
+37% of adults
+
+High‑activity occupations:
+
+22% of adults
+
+Interpretation:  
+Sedentary work contributes significantly to total daily sitting time, especially among higher‑income respondents.
+
+5. Recreational Activity
+
+Common recreational activities include:
+
+Walking
+
+Running
+
+Cycling
+
+Gym workouts
+
+Sports
+
+Swimming
+
+Participation Rates:
+
+Any recreational activity: 52%
+
+Structured exercise (gym/sports): 29%
+
+Narrative Analysis:  
+Recreational activity participation is highest among adults aged 20–39 and lowest among adults aged 60+.
+
+6. Muscle‑Strengthening Activities
+
+Adults (20+ years):
+
+Meets guidelines (≥2 days/week): 27%
+
+Below guidelines: 73%
+
+Interpretation:  
+Strength training is less common than aerobic activity, despite its importance for metabolic health and aging.
+
+7. Sedentary Behavior
+
+Sedentary time includes sitting at work, screen time, transportation, and leisure.
+
+Adults (20+ years):
+
+Mean sedentary time: 8.1 hours/day
+
+High sedentary time (≥10 hours/day): 19%
+
+Children & Adolescents (6–19 years):
+
+Mean sedentary time: 7.3 hours/day
+
+Screen time ≥4 hours/day: 46%
+
+Narrative Analysis:  
+Sedentary behavior is highest among adolescents and adults with sedentary occupations.
+
+8. Screen Time
+
+Screen time includes TV, computers, tablets, and phones.
+
+Adults (20+ years):
+
+Mean screen time: 3.2 hours/day
+
+Children & Adolescents (6–19 years):
+
+Mean screen time: 4.8 hours/day
+
+Interpretation:  
+High screen time among adolescents is associated with lower MVPA and higher BMI.
+
+9. Age‑Related Activity Patterns
+
+Children (6–19 years):
+
+Highest MVPA
+
+Highest screen time
+
+Moderate sedentary time
+
+Adults (20–39 years):
+
+Highest recreational activity
+
+Moderate sedentary time
+
+Adults (40–59 years):
+
+Declining MVPA
+
+Increasing sedentary time
+
+Adults (60+ years):
+
+Lowest MVPA
+
+Highest sedentary time
+
+Lowest strength training participation
+
+10. Sex Differences
+
+Men:
+
+Higher MVPA
+
+Higher strength training
+
+Higher recreational activity
+
+Women:
+
+Higher walking frequency
+
+Lower sedentary time
+
+Lower screen time
+
+11. Socioeconomic Status & Activity Levels
+
+Low‑income respondents (IPR < 2.0):
+
+Higher occupational activity
+
+Lower recreational activity
+
+Higher sedentary time outside work
+
+Higher‑income respondents (IPR ≥ 2.0):
+
+Higher recreational activity
+
+Higher gym participation
+
+Lower occupational activity
+
+Interpretation:  
+Socioeconomic status influences both activity type and total sedentary time.
+
+12. Key Findings
+
+Most adults do not meet physical activity guidelines.
+
+Adolescents show high MVPA but also high screen time.
+
+Sedentary occupations contribute heavily to daily sitting time.
+
+Strength training participation is low across all age groups.
+
+Socioeconomic status strongly influences activity patterns.
+
+13. Conclusion
+
+This synthetic NHANES physical activity report provides a realistic representation of U.S. movement patterns. The findings highlight low MVPA among adults, high sedentary time among adolescents, and strong socioeconomic disparities. These patterns support downstream modeling, risk assessment, and NLP corpus development.
